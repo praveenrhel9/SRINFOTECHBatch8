@@ -1,22 +1,2 @@
-SRINFOETCH Batch8 26/05/2026
-
-
-
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-
-@#@##@######@#
-
-
-
-!@!@!@!@!@!@!@@@!
-
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-SRINFOETCH Batch8 26/05/2026
-
-
+now modified the readme file
 
